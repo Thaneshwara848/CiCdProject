@@ -1,0 +1,10 @@
+package com.example.demo.controllers;
+
+public class ProductController {
+	
+	public String home()
+	{
+		return "<h1>Hi Welcome to Aprinmg Boot Application</h1>";
+	}
+
+}

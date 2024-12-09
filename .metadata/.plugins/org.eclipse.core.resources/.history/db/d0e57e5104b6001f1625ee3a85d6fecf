@@ -1,0 +1,15 @@
+open the file explore 
+	under the com. example.demo package 
+		we have main file 
+				its running on port no 9999 
+				
+				as soon as its run 
+					open the browser 
+					
+					http://localhost:9999/home
+					
+		/ home is contoler path 
+		
+			if we open the controller package 
+				there will be one API which of Home 
+					its returning as Welcome to Spring boot Application 
